@@ -1,16 +1,15 @@
-## Hi there 👋
+![GitHub Header](./github-header.png)
 
-<!--
-**foxtrottwist/foxtrottwist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+5+ years with React, TypeScript, and component architecture. ASL fluent, focused on inclusive design that works for everyone.
 
-Here are some ideas to get you started:
+## Professional Highlights
+**Component Architecture:** 1 → 50+ production components  
+**Technical Mentorship:** 12+ engineers supported, 1 promoted to Senior  
+**Platform Impact:** Systems supporting 60% year-over-year growth  
+**Technology Leadership:** Led TypeScript adoption across frontend teams  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+[lawrencehorne.com](https://lawrencehorne.com)  
+
+*Building bridges between complex technology and inclusive user experiences* 🦊
