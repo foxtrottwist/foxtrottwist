@@ -1,4 +1,9 @@
-![GitHub Header](./github-header.png)
+<a href="https://lawrencehorne.com">
+  <img
+    alt="Building Maintainble Systems for practical challenges with accessibility in mind"
+    src="https://raw.githubusercontent.com/foxtrottwist/foxtrottwist/main/github-header.png"
+  />
+</a>
 
 5+ years with React, TypeScript, and component architecture. ASL fluent, focused on inclusive design that works for everyone.
 
