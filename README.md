@@ -15,6 +15,4 @@
 
 ---
 
-[lawrencehorne.com](https://lawrencehorne.com)  
-
-*Building bridges between complex technology and inclusive user experiences* 🦊
+[lawrencehorne.com](https://lawrencehorne.com)
