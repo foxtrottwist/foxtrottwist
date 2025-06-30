@@ -1,7 +1,7 @@
 <a href="https://lawrencehorne.com">
   <img
     alt="Building Maintainble Systems for practical challenges with accessibility in mind"
-    src="https://raw.githubusercontent.com/foxtrottwist/foxtrottwist/main/assets/github-header.png"
+    src="https://raw.githubusercontent.com/foxtrottwist/foxtrottwist/main/assets/github-banner.png"
   />
 </a>
 
